@@ -17,10 +17,7 @@ const About = () => {
     <MySpinner/>
       <div className="container">
         <div className="row g-5 align-items-center">
-          <div className="col-lg-6 wow zoomIn" data-wow-delay="0.1s">
-            <img className="img-fluid" src="img/about.png" alt='about' />
-          </div>
-          <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div className="col-lg-12 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
             <div className="d-inline-block border rounded-pill text-primary px-4 mb-3">About Us</div>
        <p className="mb-4">Optimum Consultancy Services (OCS), established in 2016, is an educational consultancy organization that assists students in making the right choice concerning pursuing education overseas. Through counseling services, we mentor and guide students toward choosing the right international degree in a country suitable to their profile.
       So far, we could help a maximum number of students from Afghanistan to get admitted to well-established and highly reputed universities in diverse parts of the world, and have a command over the education system worldwide.

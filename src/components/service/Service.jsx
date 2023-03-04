@@ -1,8 +1,7 @@
 import React from 'react'
 import BannerItems from '../banner/banner-item'
-import MySpinner from '../home/Spinar'
-import MyCard from '../univercity/Card'
-import ServiceItem from './Service-item'
+import MyUnivercity from '../univercity/univercity-card'
+
 
 
 const Service = () => {
@@ -12,7 +11,7 @@ const Service = () => {
     {/* Navbar & Hero End */}
     {/* Service Start */}
     {/* <ServiceItem/> */}
-    <MyCard/>
+   <MyUnivercity/>
     {/* Service End */}
   </div>
     
