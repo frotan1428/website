@@ -1,7 +1,7 @@
 import React from 'react'
 import Slider from "react-animated-slider"
 import  horizontalCss from 'react-animated-slider/build/horizontal.css';
-import banner from "/Users/frotan/Desktop/optimum/src/assets/banner1.jpeg"
+import banner from "../../assets/banner1.jpeg"
 
 const Myslides = (props) => {
   const {title,First, button,image}= props;
